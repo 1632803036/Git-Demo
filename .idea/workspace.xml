@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73846fb7-420f-4c25-b314-8965601fdb40" name="Default Changelist" comment="" />
+    <list default="true" id="73846fb7-420f-4c25-b314-8965601fdb40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/demo-module-1/src/com/duyi/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-module-1/src/com/duyi/MainTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +69,7 @@
       <workItem from="1650758881671" duration="1397000" />
       <workItem from="1650761366035" duration="10000" />
       <workItem from="1650765974251" duration="259000" />
+      <workItem from="1650768752649" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="尝试第一次修改">
       <created>1650727525849</created>
@@ -204,34 +207,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="第五次修改" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="371" y="0" key="CommitChangelistDialog2" timestamp="1650766270963">
+    <state x="371" y="0" key="CommitChangelistDialog2" timestamp="1650768923914">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="371" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1650766270963" />
+    <state x="371" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1650768923914" />
     <state x="147" y="64" width="1228" height="680" key="DiffContextDialog" timestamp="1650727767426">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="147" y="64" width="1228" height="680" key="DiffContextDialog/0.0.1536.816@0.0.1536.816" timestamp="1650727767426" />
-    <state x="147" y="65" key="MergeDialog" timestamp="1650761195839">
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1650768766547">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="147" y="65" key="MergeDialog/0.0.1536.816@0.0.1536.816" timestamp="1650761195839" />
-    <state x="477" y="124" key="MultipleFileMergeDialog" timestamp="1650761195844">
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1650768766547" />
+    <state x="147" y="65" key="MergeDialog" timestamp="1650768913560">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="477" y="124" key="MultipleFileMergeDialog/0.0.1536.816@0.0.1536.816" timestamp="1650761195844" />
+    <state x="147" y="65" key="MergeDialog/0.0.1536.816@0.0.1536.816" timestamp="1650768913560" />
+    <state x="477" y="124" key="MultipleFileMergeDialog" timestamp="1650768913565">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="477" y="124" key="MultipleFileMergeDialog/0.0.1536.816@0.0.1536.816" timestamp="1650768913565" />
     <state x="522" y="119" key="RollbackChangesDialog" timestamp="1650728627023">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="522" y="119" key="RollbackChangesDialog/0.0.1536.816@0.0.1536.816" timestamp="1650728627023" />
-    <state x="361" y="130" key="Vcs.Push.Dialog.v2" timestamp="1650766275877">
+    <state x="361" y="130" key="Vcs.Push.Dialog.v2" timestamp="1650768927695">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="361" y="130" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1650766275877" />
-    <state x="449" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1650765974486">
+    <state x="361" y="130" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1650768927695" />
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1650768753405">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="449" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1650765974486" />
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1650768753405" />
     <state x="178" y="103" key="new project wizard" timestamp="1650726266379">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
