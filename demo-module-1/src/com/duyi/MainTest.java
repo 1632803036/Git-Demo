@@ -6,5 +6,6 @@ public class MainTest {
 
         System.out.println("haha");
         System.out.println("1111");
+        System.out.println("1111");
     }
 }
